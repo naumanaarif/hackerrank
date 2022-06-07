@@ -1,3 +1,5 @@
+
+
 def countingValleys(steps, path):
     sea_level, valleys = 0, 0
     for i in range(steps):
