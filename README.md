@@ -2,6 +2,9 @@
 Solutions to All the Challenges in "The HackerRank Interview Preparation Kit" using Python
 
 ## Solutions
-| #   | Challenge      | Topic              | Solution | Difficulty                            |
-| --- | -------------- | ------------------ | -------- | ------------------------------------- |
-| 01  | Sales by Match | Warm-up Challenges |          | <span style="color:green">Easy</span> |
+| #   | Challenge | Solution | Topic | Category | Difficulty |
+| --- | ---       | ---      | ---   | ---      | ---        |
+| 0  | [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup)   | [View Source Code](https://github.com/naumanaarif/hackerrank-solutions-python/blob/main/warmup_challenges/sales_by_match.py) | [Warm up](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges) | Problem Solving (Basic) | Easy       |
+| 1  | [Counting Valleys](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup) | [View Source Code](https://github.com/naumanaarif/hackerrank-solutions-python/blob/main/warmup_challenges/sales_by_match.py) | [Warm up](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges) | Problem Solving (Basic) | Easy       |
+| 2  | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup) | [View Source Code](https://github.com/naumanaarif/hackerrank-solutions-python/blob/main/warmup_challenges/jumping_on_the_clouds.py) | [Warm up](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges) | Problem Solving (Basic) | Easy       |
+| 3  | [Repeated String](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup) | [View Source Code](https://github.com/naumanaarif/hackerrank-solutions-python/blob/main/warmup_challenges/sales_by_match.py) | [Warm up](https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges) | Problem Solving (Basic) | Easy       |
