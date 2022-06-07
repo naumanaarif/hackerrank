@@ -13,7 +13,6 @@ def jumpingOnClouds(c):
         elif i+1 < n and c[i+1] == 0:
             jumps += 1
             i += 1
-
     return jumps
 
 
