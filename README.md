@@ -5,7 +5,7 @@ Solutions to All the Challenges in "The HackerRank Interview Preparation Kit" us
 
 - [Warm-Up](#warm-up)
 - [Arrays](#arrays)
-- ...
+- *in-progress*...
 
 ### Warm-Up
 
