@@ -10,3 +10,8 @@ Source: [HackerRank](https://www.hackerrank.com/about-us/)
 ## Disclaimer
 
 The sole purpose of creating this repository is to share my approach to solving hackerrank problems. I would highly recommend that you try to solve the problems yourself first, then see the solutions.
+
+# Solutions
+
+- [Interview Preparation Kit](https://github.com/naumanaarif/hackerrank/tree/main/interview-preparation-kit)
+- [Python](https://github.com/naumanaarif/hackerrank/tree/main/python)
