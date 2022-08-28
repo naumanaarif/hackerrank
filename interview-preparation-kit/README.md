@@ -1,11 +1,14 @@
-# The HackerRank Interview Preparation Kit - Solutions [2022]
-Solutions to All the Challenges in "The HackerRank Interview Preparation Kit" using Python
+# The HackerRank Interview Preparation Kit
+
+Solutions to all the challenges in "The HackerRank Interview Preparation Kit" using Python.
 
 ## Solutions
 
+Click on any of the topics below to skip to that section
+
 - [Warm-Up](#warm-up)
 - [Arrays](#arrays)
-- *in-progress*...
+- *coming soon...*
 
 ### Warm-Up
 
