@@ -1,9 +1,12 @@
+
+![My Skills](https://skillicons.dev/icons?i=python&theme=dark)
+
 # Python
 
 All the problems are from
 [hackerrank.com/domains/python](https://www.hackerrank.com/domains/python)
 
-## Solutions
+# Solutions
 
 | #   | Skill          | Topic        | Problem                                                                                         | Solution                                                                                 | Difficulty |
 | --- | -------------- | ------------ | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------- |
