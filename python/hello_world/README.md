@@ -28,7 +28,7 @@ You do not need to read any input in this challenge.
 
 Print `Hello, World!` to stdout.
 
-### Sample Output 0
+### Sample Output
 
 ```
 Hello, World!
