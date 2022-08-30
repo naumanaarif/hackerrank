@@ -33,3 +33,31 @@ Print `Hello, World!` to stdout.
 ```
 Hello, World!
 ```
+
+*Source: [hackerrank.com/challenges/py-hello-world/problem](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true)*
+
+## Solution
+
+```python
+print("Hello, World!")
+```
+
+See the source code [here](https://github.com/naumanaarif/hackerrank/blob/main/python/hello_world/hello_world.py).
+
+## Explanation
+
+### `print()` Function
+
+The `print()` function prints the specified message to the screen, or other standard output device.
+
+The message can be a string, or any other object, the object will be converted into a string before written to the screen.
+
+*Source: [w3schools.com/python/ref_func_print.asp](https://www.w3schools.com/python/ref_func_print.asp)*
+
+#### Syntax
+
+```python
+print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
+```
+
+See the official documentation for `print()` [here](https://docs.python.org/3/library/functions.html#print).
