@@ -1,6 +1,4 @@
 
-![My Skills](https://skillicons.dev/icons?i=python&theme=dark)
-
 # Python
 
 All the problems are from
