@@ -87,7 +87,7 @@ if __name__ == '__main__':
 
 Read about conditional statements [here](https://realpython.com/python-conditional-statements/).
 
-### Python's range() Function
+### Python's `range()` Function
 
 Rather than being a function, `range` is actually an immutable sequence type.
 
