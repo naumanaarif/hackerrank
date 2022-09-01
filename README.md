@@ -13,5 +13,5 @@ The sole purpose of creating this repository is to share my approach to solving 
 
 # Solutions
 
-- [Python](https://github.com/naumanaarif/hackerrank/tree/main/python)
-- [Interview Preparation Kit](https://github.com/naumanaarif/hackerrank/tree/main/interview-preparation-kit)
+- [Python](https://github.com/naumanaarif/hackerrank/tree/main/solutions/python)
+- [Interview Preparation Kit](https://github.com/naumanaarif/hackerrank/tree/main/solutions/interview-preparation-kit)
