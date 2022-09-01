@@ -62,3 +62,21 @@ Not `Weird`
 $n = 24$
 
 $n \gt 20$ and $n$ is even, so it is not `weird`.
+
+## Solution
+
+```python
+if __name__ == '__main__':
+    n = int(input().strip())
+    if n % 2 == 0:
+        if n in range(2, 6):
+            print("Not Weird")
+        elif n in range(6, 21):
+            print("Weird")
+        elif n > 20:
+            print("Not Weird")
+    else:
+        print("Weird")
+```
+
+*See the source code [here](https://github.com/naumanaarif/hackerrank/blob/main/solutions/python/if_else/if_else.py).*
