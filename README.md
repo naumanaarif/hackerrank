@@ -1,5 +1,5 @@
 
-![HackerRank](/images/banner.png)
+![HackerRank](/images/hackerrank.png)
 
 # About HackerRank
 
